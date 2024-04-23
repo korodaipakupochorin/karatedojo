@@ -812,6 +812,9 @@ footer div {
     text-align: center;
 }
 
+.container button {
+    display: none;
+}
 
 /* 
  ページトップに飛ばすエリアの配置設定
